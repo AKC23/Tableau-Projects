@@ -12,7 +12,7 @@
 
 #### When Home Isn't Safe: Mapping Violence Against Women in Bangladesh (2024)  
 ##### Visualizing Lifetime and Recent Intimate & Non-Partner Violence Across 8 Divisions
-![Dashboard Banner](https://github.com/AKC23/Tableau-Projects/blob/main/Violence%20Against%20Women/Dashboard%20Image/1.png)
+![Dashboard Banner](https://github.com/AKC23/Tableau-Projects/blob/main/Violence%20Against%20Women/Dashboard%20Image/4.png)
 
 </div>
 
@@ -64,7 +64,7 @@ This project uses publicly available data from the **Violence Against Women Surv
 
 <div align="center">
 
-![Map Visualization](https://github.com/AKC23/Tableau-Projects/blob/main/Violence%20Against%20Women/Dashboard%20Image/3.png)
+![Map Visualization](https://github.com/AKC23/Tableau-Projects/blob/main/Violence%20Against%20Women/Dashboard%20Image/5.png)
 
 **Figure:** Non-Partner Violence (NPV) since age 15 across 8 divisions in the last 12 months
 
