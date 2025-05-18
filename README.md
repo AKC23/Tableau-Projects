@@ -79,8 +79,10 @@ This project uses publicly available data from the **Violence Against Women Surv
 ## Consulting Firms in Bangladesh
 
 <div align="center">
+
 ### Top Economic & Strategic Consulting Firms in Bangladesh (2025)   
 ![Dashboard Banner](https://github.com/AKC23/Tableau-Projects/blob/main/Consulting%20Firms%20in%20Bangladesh/Dashboard%20Image/1.png)
+
 </div>
 
 ### 📊 About the Dashboard
